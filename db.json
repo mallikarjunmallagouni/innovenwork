@@ -1,0 +1,250 @@
+{
+  "seller": [
+    {
+      "name": "Mallikarjun",
+      "email": "malli@gmail.com",
+      "password": "malli123",
+      "id": 1
+    },
+    {
+      "name": "Krishna",
+      "email": "Krishna@gmail.com",
+      "password": "Krish123",
+      "id": 2
+    },
+    {
+      "name": "Naidu",
+      "password": "naidu123",
+      "email": "naidu@gamil.com",
+      "id": 3
+    },
+    {
+      "name": "Phani",
+      "password": "phani123",
+      "email": "phani@gamil.com",
+      "id": 4
+    },
+    {
+      "name": "Gopalakrishna",
+      "password": "gopal123",
+      "email": "gopalakrishna@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 6
+    },
+    {
+      "name": "venkatsh",
+      "password": "venky123",
+      "email": "venkatesh@gamil.com",
+      "id": 7
+    },
+    {
+      "name": "raghavendar",
+      "password": "raghu123",
+      "email": "raghavendar@gamil.com",
+      "id": 8
+    }
+  ],
+  "login": [
+    {
+      "name": "Mallikarjun",
+      "email": "malli@gmail.com",
+      "password": "malli123",
+      "id": 1
+    },
+    {
+      "name": "Krishna",
+      "email": "Krishna@gmail.com",
+      "password": "Krish123",
+      "id": 2
+    },
+    {
+      "name": "Naidu",
+      "password": "naidu123",
+      "email": "naidu@gamil.com",
+      "id": 3
+    },
+    {
+      "name": "sreenu",
+      "password": "sreenu123",
+      "email": "sreeenu@gamil.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Nokia",
+      "price": "14000",
+      "color": "matblack",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://www.samsung.com/global/galaxy/main/images/kv-galaxy-s23_s.jpg",
+      "id": "2"
+    },
+    {
+      "name": "HP",
+      "price": "68700",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "It is very Nice",
+      "image": "https://www.shutterstock.com/image-photo/bangkok-thailand-hp-launch-new-260nw-2126914553.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Dell",
+      "price": "68700",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It working experience is supper",
+      "image": "https://w7.pngwing.com/pngs/899/650/png-transparent-laptop-dell-intel-core-computer-hp-pavilion-laptop-electronics-netbook-electronic-device.png",
+      "id": "4"
+    },
+    {
+      "name": "Fila",
+      "price": "2310",
+      "color": "white",
+      "category": "Shoes",
+      "description": "Awsome Product",
+      "image": "https://www.shutterstock.com/image-photo/bangkok-thailand-november-3-2018-600w-1220047840.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Nokia",
+      "price": "14000",
+      "color": "matblack",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://www.samsung.com/global/galaxy/main/images/kv-galaxy-s23_s.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": "2",
+      "id": "yMpw_Ii"
+    }
+  ],
+  "users": [
+    {
+      "name": "Mallikarjun",
+      "email": "malli@gmail.com",
+      "password": "malli123",
+      "id": 1
+    },
+    {
+      "name": "Naidu",
+      "email": "naidu@gamil.com",
+      "password": "naidu123",
+      "id": 2
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gamil.com",
+      "password": "krish123",
+      "id": 3
+    },
+    {
+      "name": "Mallikarjun",
+      "email": "malli@gmail.com",
+      "password": "malli123",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Nokia",
+      "price": "14000",
+      "color": "matblack",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://www.samsung.com/global/galaxy/main/images/kv-galaxy-s23_s.jpg",
+      "quantity": 1,
+      "productId": "2",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "HP",
+      "price": "68700",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "It is very Nice",
+      "image": "https://www.shutterstock.com/image-photo/bangkok-thailand-hp-launch-new-260nw-2126914553.jpg",
+      "quantity": 1,
+      "productId": "3",
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Dell",
+      "price": "68700",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It working experience is supper",
+      "image": "https://w7.pngwing.com/pngs/899/650/png-transparent-laptop-dell-intel-core-computer-hp-pavilion-laptop-electronics-netbook-electronic-device.png",
+      "quantity": 1,
+      "productId": "4",
+      "userId": 3,
+      "id": 9
+    },
+    {
+      "name": "HP",
+      "price": "68700",
+      "color": "Silver",
+      "category": "Laptop",
+      "description": "It is very Nice",
+      "image": "https://www.shutterstock.com/image-photo/bangkok-thailand-hp-launch-new-260nw-2126914553.jpg",
+      "quantity": 1,
+      "productId": "3",
+      "userId": 4,
+      "id": 12
+    },
+    {
+      "name": "Dell",
+      "price": "68700",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It working experience is supper",
+      "image": "https://w7.pngwing.com/pngs/899/650/png-transparent-laptop-dell-intel-core-computer-hp-pavilion-laptop-electronics-netbook-electronic-device.png",
+      "quantity": 1,
+      "productId": "4",
+      "userId": 4,
+      "id": 13
+    },
+    {
+      "name": "Dell",
+      "price": "68700",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "It working experience is supper",
+      "image": "https://w7.pngwing.com/pngs/899/650/png-transparent-laptop-dell-intel-core-computer-hp-pavilion-laptop-electronics-netbook-electronic-device.png",
+      "quantity": 1,
+      "productId": "4",
+      "userId": null,
+      "id": 14
+    },
+    {
+      "name": "Nokia",
+      "price": "14000",
+      "color": "matblack",
+      "category": "Mobile",
+      "description": "Good product",
+      "image": "https://www.samsung.com/global/galaxy/main/images/kv-galaxy-s23_s.jpg",
+      "quantity": 1,
+      "productId": "2",
+      "userId": 1,
+      "id": 15
+    }
+  ],
+  "orders": [
+    {
+      "email": "malli@gmail.com",
+      "address": "5-15/1, GANDHI NAGAR COLONY, BOLLARAM ALE BOLLARAM SO",
+      "contact": "3216544232",
+      "totalPrice": 14100,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
