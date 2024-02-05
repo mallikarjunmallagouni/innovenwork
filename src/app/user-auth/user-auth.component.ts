@@ -33,6 +33,7 @@ export class UserAuthComponent implements OnInit{
       
     })
   }
+
   openSignUp(){
     this.showLogin = false;
   }
